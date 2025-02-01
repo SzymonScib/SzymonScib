@@ -8,6 +8,7 @@
         <li>📖 A Buissenes Informatics student at Wroclaw University of Economics.</li>
         <li>👨‍🏫 Working as a programming teacher
         <li>⭐ You may like <a href="https://github.com/SzymonScib/Json_DBMS">My newest project</a></li>
+	<li>🛠	Currently working on <a href="https://github.com/SzymonScib/VCS">This</a></li>
         <li>🐱 Fun fact: I love cats</li>
         <li>📧 szymsonscib@gmail.com </li>
       </ul>
